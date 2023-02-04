@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+/* Home Page */
+header {
+    border-bottom: 2px solid;
+    padding: 30px 10px 15px 7px;
+}
+
+ul {
+    text-align: center;
+    font-family: poppins;
+}
+li {
+    display: inline;  
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    font-size: large
+}
+
+.about {
+    margin: 0 100px;
+}
+
+.box {
+    display:inline-block    
+}
+
+.box-wrapper {
+    border: 1px solid black;
+    margin-top: 140px;
+    margin-inline: 45px;
+    width: 340px;
+    height: 500px;
+}
+
+img{
+    padding: 18px 30px 15px 15px;
+}
+
+h4 {
+    margin-top: 7px;
+    margin-left: 35px;
+    font-weight: normal;
+    font-family: poppins;
+}
+
+p {
+    margin-left: 35px;
+    margin-right: 10px;
+    font-family: poppins;
+}
+
+button {
+   margin-top: 20px;
+   margin-left: 291px;
+   font-family: poppins;
+}
+
+
+
+
+
+
+
+
+/* About Us Page */
+.aboutus{
+    font-size: 25px;
+    margin-top: 100px;
+    margin-left: 150px;
+    margin-right: 350px;
+    font-family: poppins;
+}
+
+.adress2 {
+    font-style: normal;
+    font-size: 25px;
+    margin-top: 50px;
+    margin-left: 150px;
+    font-family: poppins;
+}
+
+
+/* Contat Us Page */
+h1 {
+    font-size: 40px;
+    text-align: center;
+    margin-top: 100px;
+    font-family: poppins;
+}
+
+.mail{
+    margin-top: 100px;
+    margin-left: 0px;
+    font-size: 25px;
+    text-decoration: underline;
+    font-family: poppins;
+}
+
+.info {
+    margin-top: 100px;
+    margin-left: 200px;
+    font-size: 25px;
+    font-family: poppins;
+
+}
+
+
+.adress1 {
+    font-style: normal;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-family: poppins;
+}
+    
